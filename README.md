@@ -6,9 +6,9 @@ Computer Engineering Undergraduate
 
 🚀 Passionate about Web development & Game Development 🎮 | Computer Vision 👁️ | Machine & Deep Learning 🤖
 
-* 🌍  I'm based in Colombo, Sri Lanka
-* ✉️  You can contact me at [yasodhyapereras@gmail.com](mailto:yasodhyapereras@gmail.com)
-* 🧠  I'm learning Unreal Engine
+* 🌍  Colombo, Sri Lanka
+* ✉️  contact me at [yasodhyapereras@gmail.com](mailto:yasodhyapereras@gmail.com)
+* 🧠  learning Unreal Engine
 * ⚡  Monkey D. Luffy Will be the Pirate King
 
 ### Skills
