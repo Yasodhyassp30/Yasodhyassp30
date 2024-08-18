@@ -20,7 +20,6 @@ Computer Engineering Undergraduate
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yasodhyassp30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasodhyassp30&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=yasodhyassp30&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
