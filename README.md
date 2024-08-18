@@ -1,7 +1,7 @@
-Hi !My name is Yasodhya Perera
+Hi!! I'm Yasodhya Perera
 =======================================================================================================================================
 
-Computer Engineering Undergraduate
+Bsc (Hons) Computer Engineering Minor In Data Management
 ----------------------------------
 
 🚀 Passionate about Web development & Game Development 🎮 | Computer Vision 👁️ | Machine & Deep Learning 🤖
