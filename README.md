@@ -1,6 +1,7 @@
 Hi!! I'm Yasodhya Perera
 =======================================================================================================================================
 
+<p align="center">
 Bsc (Hons) Computer Engineering Minor In Data Management
 ----------------------------------
 
@@ -27,6 +28,7 @@ Bsc (Hons) Computer Engineering Minor In Data Management
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=yasodhyassp30&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
+</p>
 </p>
 
 
