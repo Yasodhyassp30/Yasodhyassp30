@@ -1,9 +1,8 @@
-Hi!! I'm Yasodhya Perera
+Hi!! I'm Yasodhya Perera (Bsc (Hons) Computer Engineering)
 =======================================================================================================================================
-
-Bsc (Hons) Computer Engineering Minor In Data Management
-----------------------------------
 Software Engineer @ Zebra Technologies
+----------------------------------
+
 
 🚀 Passionate about Web development & Game Development 🎮 | Computer Vision 👁️ | Machine & Deep Learning 🤖
 
