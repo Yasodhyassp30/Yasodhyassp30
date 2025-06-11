@@ -8,6 +8,8 @@ Software Engineer @ Zebra Technologies
 
 * 🌍  Colombo, Sri Lanka
 * ✉️  contact me at [yasodhyapereras@gmail.com](mailto:yasodhyapereras@gmail.com)
+* 1st Runner-up in APICTA (Asia Pacific ICT Alliance) Awards 2024, BRUNEI 
+* Silver Award in National ICT Awards NBQSA 2024
 
 
 ### Skills
