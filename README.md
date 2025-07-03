@@ -1,4 +1,4 @@
-Hi!! I'm Yasodhya Perera (Bsc (Hons) Computer Engineering)
+Hi!! I'm Yasodhya Perera (BSc (Hons) Computer Engineering)
 =======================================================================================================================================
 Software Engineer @ Zebra Technologies
 ----------------------------------
