@@ -1,34 +1,95 @@
-Hi!! I'm Yasodhya Perera (BSc (Hons) Computer Engineering)
-=======================================================================================================================================
-Software Engineer @ Zebra Technologies
-----------------------------------
-
-
-🚀 Passionate about Web development & Game Development 🎮 | Computer Vision 👁️ | Machine & Deep Learning 🤖
-
-* 🌍  Colombo, Sri Lanka
-* ✉️  contact me at [yasodhyapereras@gmail.com](mailto:yasodhyapereras@gmail.com)
-* 1st Runner-up in APICTA (Asia Pacific ICT Alliance) Awards 2024, BRUNEI 
-* Silver Award in National ICT Awards NBQSA 2024
-
-
-### Skills
-
-
+<h1 align="center">👩‍💻 Yasodhya Perera</h1>
 <p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img 
+  <b>Software Engineer @ Zebra Technologies</b><br>
+  <i>BSc (Hons) in Computer Engineering</i><br>
+  🌍 Colombo, Sri Lanka | ✉️ <a href="mailto:yasodhyapereras@gmail.com">yasodhyapereras@gmail.com</a>
 </p>
 
-
-<b>My GitHub Stats</b>
-
-
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=yasodhyassp30&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yasodhyassp30&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=yasodhyassp30&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
+  <a href="mailto:yasodhyapereras@gmail.com"><img src="https://img.shields.io/badge/email-yasodhyapereras@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <img src="https://img.shields.io/badge/location-Colombo,%20Sri%20Lanka-blue?style=flat-square&logo=googlemaps" />
+  <img src="https://komarev.com/ghpvc/?username=yasodhyassp30&color=green" />
 </p>
 
+---
 
+### 🏆 Awards & Recognition
+
+- 🥈 **1st Runner-up – APICTA Awards 2024 (Brunei)**
+- 🥈 **Silver Award – National ICT Awards NBQSA 2024**
+
+---
+
+## 💡 What I Do
+| 🔧 **Systems Dev**      | High-performance applications using **C++, CMake, vcpkg** |
+| 🌐 **Full-Stack Dev**   | Robust apps using **React, TypeScript, Tailwind, Flask, Node.js** |
+| 🧠 **AI Engineering**   | LLM agents and AI systems using **LangChain, Ollama, PyTorch** |
+| 🧪 **Machine Learning** | Research & applications in CV, ML, NLP |
+| 🎮 **Game Development** | Interactive 2D/3D games and graphics engines |
+| ⚙️ **Automation**        | System orchestration, CI/CD, and backend workflows |
+
+---
+
+## 🛠️ Tools, Languages & Frameworks
+
+### 🚀 Languages & Runtimes
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+</p>
+
+### 🖥️ Web, UI & Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" />
+</p>
+
+### 🧠 Databases, AI & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+</p>
+
+---
+
+## 🔬 Research Interests
+
+- 🧠 Machine Learning & Deep Learning (NLP, CV)
+- 🧬 High-Performance Computing (HPC)
+- 🧩 Systems Programming & OS Internals
+- ⚙️ Automation & Orchestration
+- 🌐 Web Architecture & DevOps
+- 🎮 Game Engines & Interactive Simulations
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasodhyassp30&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasodhyassp30&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,php" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yasodhyassp30&theme=darcula&hide_border=true&background=FFFFFF00" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 [yasodhyapereras@gmail.com](mailto:yasodhyapereras@gmail.com)
+- 🌍 Colombo, Sri Lanka
+
+---
+
+<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
