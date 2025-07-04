@@ -20,13 +20,14 @@
 
 ---
 
-## 💡 What I Do
-| 🔧 **Systems Dev**      | High-performance applications using **C++, CMake, vcpkg** |
-| 🌐 **Full-Stack Dev**   | Robust apps using **React, TypeScript, Tailwind, Flask, Node.js** |
-| 🧠 **AI Engineering**   | LLM agents and AI systems using **LangChain, Ollama, PyTorch** |
-| 🧪 **Machine Learning** | Research & applications in CV, ML, NLP |
-| 🎮 **Game Development** | Interactive 2D/3D games and graphics engines |
-| ⚙️ **Automation**        | System orchestration, CI/CD, and backend workflows |
+| 💼 Area               | 🔍 Description                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| 🛠️ Systems Dev        | High-performance applications using **C++, CMake, vcpkg**                      |
+| 🌐 Full-Stack Dev     | Robust apps using **React, TypeScript, Tailwind, Flask, Node.js**              |
+| 🧠 AI Engineering     | LLM agents and AI systems using **LangChain, Ollama, PyTorch**                 |
+| 📊 Machine Learning   | Research & applications in **Computer Vision (CV), ML, NLP**                   |
+| 🎮 Game Development   | Interactive **2D/3D games** and graphics engines                               |
+| ⚙️ Automation         | System orchestration, **CI/CD**, and backend workflows                         |
 
 ---
 
