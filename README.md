@@ -2,12 +2,13 @@
 <p align="center">
   <b>Software Engineer @ Zebra Technologies</b><br>
   <i>BSc (Hons) in Computer Engineering</i><br>
-  🌍 Colombo, Sri Lanka | ✉️ <a href="mailto:yasodhyapereras@gmail.com">yasodhyapereras@gmail.com</a>
+  🌍 Colombo, Sri Lanka
 </p>
 
 <p align="center">
   <a href="mailto:yasodhyapereras@gmail.com"><img src="https://img.shields.io/badge/email-yasodhyapereras@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <img src="https://img.shields.io/badge/location-Colombo,%20Sri%20Lanka-blue?style=flat-square&logo=googlemaps" />
+  <a href="mailto:yasodhya.sesath@zebra.com"><img src="https://img.shields.io/badge/email-zebra--work-blue?style=flat-square&logo=microsoftoutlook"></a>
+  <a href="https://www.linkedin.com/in/yasodhya-sesath/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
   <img src="https://komarev.com/ghpvc/?username=yasodhyassp30&color=green" />
 </p>
 
@@ -19,7 +20,8 @@
 - 🥈 **Silver Award – National ICT Awards NBQSA 2024**
 
 ---
-### What I Do
+
+### 💡 What I Do
 
 | 💼 Area               | 🔍 Description                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
@@ -32,9 +34,9 @@
 
 ---
 
-## 🛠️ Tools, Languages & Frameworks
+### 🛠️ Tools, Languages & Frameworks
 
-### 🚀 Languages & Runtimes
+#### 🚀 Languages & Core Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
@@ -42,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </p>
 
-### 🖥️ Web, UI & Frameworks
+#### 🌐 Web & Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
@@ -50,9 +52,10 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" />
 </p>
 
-### 🧠 Databases, AI & DevOps
+#### 🧠 Databases, AI & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
@@ -62,18 +65,18 @@
 
 ---
 
-## 🔬 Research Interests
+### 🔬 Interests
 
-- 🧠 Machine Learning & Deep Learning (NLP, CV)
-- 🧬 High-Performance Computing (HPC)
-- 🧩 Systems Programming & OS Internals
-- ⚙️ Automation & Orchestration
-- 🌐 Web Architecture & DevOps
-- 🎮 Game Engines & Interactive Simulations
+- 🧠 Machine & Deep Learning  
+- 🧬 High-Performance Computing  
+- ⚙️ Low-Level Systems Programming  
+- 🤖 Automation & CI/CD  
+- 🌐 Full-Stack Web Development  
+- 🎮 Game Development & Graphics Programming  
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasodhyassp30&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000" />
@@ -86,10 +89,11 @@
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-- 📧 [yasodhyapereras@gmail.com](mailto:yasodhyapereras@gmail.com)
-- 🌍 Colombo, Sri Lanka
+- 📧 Personal: [yasodhyapereras@gmail.com](mailto:yasodhyapereras@gmail.com)  
+- 💼 Work: [yasodhya.sesath@zebra.com](mailto:yasodhya.sesath@zebra.com)  
+- 🔗 LinkedIn: [linkedin.com/in/yasodhya-sesath](https://www.linkedin.com/in/yasodhya-sesath/)
 
 ---
 
