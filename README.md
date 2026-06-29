@@ -109,38 +109,7 @@ AI-focused software engineer who likes taking an idea from prototype to somethin
 Deep-learning **soccer performance analysis** tool with player localization & tactical analysis. YOLOv8 detection/segmentation for tracking, bird's-eye tactical views, and 3D ResNet action classification.
 
 `Python` `YOLOv8` `OpenCV` `React` `OpenAI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🦷 Dental Intelligence
-Real-time **voice-to-chart** dental platform. Streams dictation to Deepgram (nova-3-medical) over WebSocket, with Gemini-powered schema-validated clinical extraction and voice-driven editing.
-
-`FastAPI` `Deepgram` `Gemini` `Redis` `SIKKA.ai`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Crypto Data Scheduler
-Real-time **market-data aggregator** and AI insight engine. Caching mediator cuts API costs by serving pre-computed rankings and news-aware LLM insights instead of hitting paid endpoints.
-
-`FastAPI` `Postgres` `Redis` `OpenAI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 DOTA Masters
-**Esports win prediction** & counter-pick suggestions using neural networks and GMM clustering. Build team combos, evaluate with models, and save results.
-
-`TensorFlow` `Scikit-Learn` `Flask` `React`
-
-</td>
-</tr>
 </table>
-
----
 
 ## 🏆 Achievements & Certifications
 
