@@ -26,7 +26,6 @@ AI-focused software engineer who likes taking an idea from prototype to somethin
 - 🏆 **1st Runner-up – APICTA 2024** (Brunei) • **Silver – NBQSA 2024**
 - 🎓 BSc (Hons) Computer Engineering — *Univ. of Sri Jayewardenepura* · GPA **3.62**
 - 💬 Ask me about **RAG pipelines**, **computer vision**, or **shipping C++ across platforms**
-- ⚡ Keen to work on AI systems full-time
 
 <br clear="both">
 
@@ -143,5 +142,5 @@ Deep-learning **soccer performance analysis** tool with player localization & ta
 ---
 
 <p align="center">
-  <i>✨ Keen to work on AI systems full-time. Let's build something great. ✨</i>
+  <i>✨ Programming is like writing a book... except if you miss a single comma on page 126, the whole thing makes no sense. ✨</i>
 </p>
